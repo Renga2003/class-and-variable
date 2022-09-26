@@ -1,1 +1,1 @@
-# class-and-variable
+# class-and-variables
